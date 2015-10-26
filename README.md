@@ -1,4 +1,4 @@
-# ubuntu-ansible
+# Docker python-sshd
 
-An Ansible sshd image for system ci 
+An Python sshd image for Ansible System ci 
 
